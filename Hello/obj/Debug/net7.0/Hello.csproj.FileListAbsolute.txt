@@ -1,0 +1,15 @@
+C:\Users\larin\O-.-\Hello\bin\Debug\net7.0\Hello.exe
+C:\Users\larin\O-.-\Hello\bin\Debug\net7.0\Hello.deps.json
+C:\Users\larin\O-.-\Hello\bin\Debug\net7.0\Hello.runtimeconfig.json
+C:\Users\larin\O-.-\Hello\bin\Debug\net7.0\Hello.dll
+C:\Users\larin\O-.-\Hello\bin\Debug\net7.0\Hello.pdb
+C:\Users\larin\O-.-\Hello\obj\Debug\net7.0\Hello.csproj.AssemblyReference.cache
+C:\Users\larin\O-.-\Hello\obj\Debug\net7.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larin\O-.-\Hello\obj\Debug\net7.0\Hello.AssemblyInfoInputs.cache
+C:\Users\larin\O-.-\Hello\obj\Debug\net7.0\Hello.AssemblyInfo.cs
+C:\Users\larin\O-.-\Hello\obj\Debug\net7.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\larin\O-.-\Hello\obj\Debug\net7.0\Hello.dll
+C:\Users\larin\O-.-\Hello\obj\Debug\net7.0\refint\Hello.dll
+C:\Users\larin\O-.-\Hello\obj\Debug\net7.0\Hello.pdb
+C:\Users\larin\O-.-\Hello\obj\Debug\net7.0\Hello.genruntimeconfig.cache
+C:\Users\larin\O-.-\Hello\obj\Debug\net7.0\ref\Hello.dll
